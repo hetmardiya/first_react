@@ -9,8 +9,9 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
- [https://first-react-m6999gqkx-hets-projects-459c7b21.vercel.app]vercel app
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.\
+or click on this link to show the project 
+ [https://first-react-m6999gqkx-hets-projects-459c7b21.vercel.app] (vercel app)
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
